@@ -5,3 +5,4 @@ For this project I intend to put together a javascript react website that shows 
 projects much like my github does and host it using github
 
 ## Tools
+VSCode and a Linux terminal.
